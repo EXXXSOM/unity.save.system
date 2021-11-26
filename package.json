@@ -1,0 +1,18 @@
+{
+  "name": "com.exsom.savesystem",
+  "version": "1.0.0",
+  "displayName": "Save System",
+  "description": "Unity's simple save system.",
+  "keywords": [
+    "Unity",
+    "Save",
+    "Load"
+  ],
+  "author": {
+    "name": "EXSOM",
+    "email": "exsom.developer@gmail.com",
+    "url": "https://www.exsomstudio.com"
+  },
+  "type": "library",
+  "hideInEditor": false
+}
